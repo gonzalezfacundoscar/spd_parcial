@@ -9,4 +9,4 @@ Se utliza un sensor de temperatura en el que si la temperatura recibida es menor
 En el proyecto tambien se utiliza una fotoresistencia el cual simula que si recibe poca luz este logra prender un led, se podria comparar al ejemplo de cuando cae la noche y se prenden luces automaticamente.
 
 ## Link al proyecto
-- [proyecto](https://www.tinkercad.com/things/3xkSYR1MCUy-proyecto-parcial-1g/editel?sharecode=BHVUHvUve_4KEeJyOmJhwTej5AGF1kKGldOXMOwa-6o)
+- [proyecto](https://www.tinkercad.com/things/aCmXSNhBZ3V-copy-of-proyecto-parcial-1g/editel?sharecode=QIVoOHP1ZO3WDrAp8G1Jjax5SHX78TpyQ3ICb8WgkGo) (hasta la tercera parte, igualmente esta comentada la ultima parte del parcial.)
